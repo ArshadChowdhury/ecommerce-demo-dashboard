@@ -1,4 +1,6 @@
 
+# This is an admin dashboard of an ecommerce website built with next.js which is a react framework and tailwindcss.
+
 ## To Run This Project Locally, First clone the project from Github, then navigate to the folder and run following command on terminal
 
 ```bash
